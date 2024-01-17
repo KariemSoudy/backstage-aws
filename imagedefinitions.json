@@ -1,0 +1,6 @@
+[
+    {
+      "name": "backstage",
+      "imageUri": "905418388145.dkr.ecr.eu-north-1.amazonaws.com/backstage:latest"
+    }
+  ]
