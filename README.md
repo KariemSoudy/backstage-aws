@@ -20,3 +20,4 @@ docker compose -up
 ```
 
 then navigate to http://localhost:3000
+
